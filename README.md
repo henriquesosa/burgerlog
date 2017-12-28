@@ -8,6 +8,8 @@ Increase your hungry for logging
 
 This project is inspired in a similar logger tool called [cowsay](https://github.com/piuccio/cowsay)
 
+I hope you enjoy it :)
+
 ## Installation
 
 Burguer is available as the `burgerlog` package on [npm](https://www.npmjs.com/).
@@ -81,8 +83,4 @@ Yes!!! We also have vegan burgers
 
 ## License
 
-<<<<<<< HEAD
 Burger Log is [MIT licensed](./LICENSE).
-=======
-React is [MIT licensed](./LICENSE).
->>>>>>> ba9319eea8d0b1c5210243921749a039c1051253
