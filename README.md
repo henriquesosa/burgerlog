@@ -1,4 +1,4 @@
-# Burger &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Dependecies](https://david-dm.org/henriquesosa/burger.svg)](https://david-dm.org/henriquesosa/burger) [![Build Status](https://travis-ci.org/henriquesosa/burger.svg?branch=master)](https://travis-ci.org/henriquesosa/burger)
+# Burger Logs &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Dependecies](https://david-dm.org/henriquesosa/burger.svg)](https://david-dm.org/henriquesosa/burger) [![Build Status](https://travis-ci.org/henriquesosa/burger.svg?branch=master)](https://travis-ci.org/henriquesosa/burger)
 
 Increase your hungry for logging
 
