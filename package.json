@@ -24,5 +24,8 @@
   "homepage": "https://github.com/henriquesosa/burger#readme",
   "devDependencies": {
     "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
   }
 }
