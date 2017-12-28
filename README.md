@@ -76,7 +76,6 @@ Result:
 | `salad`       | `false`                |
 | `vegan `      | `false`                |
 | `cheese`      | `true`                 |
-| `multiple`    | `false`                |
 
 Yes!!! We also have vegan burgers
 
