@@ -1,0 +1,28 @@
+{
+  "name": "burgerlog",
+  "version": "1.0.0",
+  "description": "Increase your hungry for logging",
+  "main": "./lib/burger.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "keywords": [
+    "burger",
+    "logging",
+    "tools",
+    "fun"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquesosa/burger.git"
+  },
+  "author": "Henrique Sosa <henriquesosa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henriquesosa/burger/issues"
+  },
+  "homepage": "https://github.com/henriquesosa/burger#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
