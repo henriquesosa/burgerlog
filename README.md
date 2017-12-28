@@ -81,4 +81,8 @@ Yes!!! We also have vegan burgers
 
 ## License
 
+<<<<<<< HEAD
 Burger Log is [MIT licensed](./LICENSE).
+=======
+React is [MIT licensed](./LICENSE).
+>>>>>>> ba9319eea8d0b1c5210243921749a039c1051253
