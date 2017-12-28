@@ -1,16 +1,16 @@
-# Burger Logs &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Dependecies](https://david-dm.org/henriquesosa/burger.svg)](https://david-dm.org/henriquesosa/burger) [![Build Status](https://travis-ci.org/henriquesosa/burger.svg?branch=master)](https://travis-ci.org/henriquesosa/burger)
+# Burger Log &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Dependecies](https://david-dm.org/henriquesosa/burger.svg)](https://david-dm.org/henriquesosa/burger) [![Build Status](https://travis-ci.org/henriquesosa/burger.svg?branch=master)](https://travis-ci.org/henriquesosa/burger)
 
 Increase your hungry for logging
 
 ## Motivation
 
-`Burger` was created to put all your logging information into a bread.
+`burgerlog` was created to put all your logging information into a bread.
 
 This project is inspired in a similar logger tool called [cowsay](https://github.com/piuccio/cowsay)
 
 ## Installation
 
-Burguer is available as the `burger` package on [npm](https://www.npmjs.com/).
+Burguer is available as the `burgerlog` package on [npm](https://www.npmjs.com/).
 
     npm install --save-dev burgerlog
 
@@ -81,4 +81,4 @@ Yes!!! We also have vegan burgers
 
 ## License
 
-React is [MIT licensed](./LICENSE).
+Burger Log is [MIT licensed](./LICENSE).
